@@ -9,5 +9,6 @@ I will record my leetcode practice plan, follow the schedule and write solution 
 I plan to record the codejam practice in this folder, with problem solution and related knowledge
 
 ## 3. 剑指offer(MS)
-- [Click to project](./coding-inerview/)
+- [Click to project](./codinginterview/)
+
 This folder will collect all problems and solutins from the classic coding interview book <<剑指offer>>
